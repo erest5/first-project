@@ -14,8 +14,6 @@ public class RoadCamera {
        orders.put("Alex 2", 23432);
        orders.put("Ekaterina", 1034753);
        orders.put("Yaroslav", 450);
-
-
        int sum = 0;
 
        for (Integer var : orders.values()){
